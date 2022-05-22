@@ -15,4 +15,3 @@ Keywords=windterm
 Name=New Empty Window
 Icon=windterm
 Exec=/usr/bin/windterm
-
